@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "148066986462",
+    "project_id": "digital-sport-market",
+    "storage_bucket": "digital-sport-market.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148066986462:android:c16101c2b8f7365df1d54f",
+        "android_client_info": {
+          "package_name": "com.example.dspapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiwJ_ms1HVwhbLD4kJ6Bbg_fq8VdxR5F0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
